@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CV - Bos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Albob</h1>
+            <p><strong>Email:</strong> [albertnico07@gmail.com]</p>
+            <p><strong>Telepon:</strong> [+62-821-2351-6753]</p>
+        </header>
+
+        <section>
+            <h2>Profil</h2>
+            <p>Saya adalah seorang Bos muda dengan pengalaman di bidang Pemograman. Saya memiliki kemampuan dalam Coding dan bersemangat untuk terus belajar dan berkembang.</p>
+        </section>
+
+        <section>
+            <h2>Pengalaman Kerja</h2>
+            <ul>
+                <li>
+                    <h3>PT Maju Jaya</h3>
+                    <p><strong>Posisi:</strong> Bos - 4 Tahun</p>
+                    <p>[Deskripsi singkat tentang tanggung jawab dan pencapaian di perusahaan tersebut]</p>
+                </li>
+                <li>
+                    <h3>PT Sukses</h3>
+                    <p><strong>Posisi:</strong> Bos - 5 Tahun</p>
+                    <p>[Deskripsi singkat tentang tanggung jawab dan pencapaian di perusahaan tersebut]</p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Pendidikan</h2>
+            <ul>
+                <li>
+                    <p><strong>[Gelar]</strong> - UM - 2026</p>
+                </li>
+                <li>
+                    <p><strong>SMK</strong> - SMK Telkom - 2025/p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Keahlian</h2>
+            <ul>
+                <li>[Designer]</li>
+                <li>[Pemograman]</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Kontak</h2>
+            <p>Email: [stokbob@gmail.com]</p>
+            <p>Telepon: [+62-821-2351-6753}</p>
+        </section>
+    </div>
+</body>
+</html>
